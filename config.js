@@ -1,7 +1,7 @@
 module.exports = {
     app: {
-        token: 'xxx',
-        playing: 'by the Community ❤️',
+        token: 'MTIzODgzODUyOTg3NDcyNjk5Mw.GBS2E9.RtOjHdKxGMH1N-Pgrjui4P2sNOwehCPTcehLkQ',
+        playing: 'Nothing',
         global: true,
         guild: 'xxx',
         extraMessages: false,
@@ -12,7 +12,7 @@ module.exports = {
     opt: {
         DJ: {
             enabled: false,
-            roleName: '',
+            roleName: 'bot',
             commands: []
         },
         maxVol: 100,
